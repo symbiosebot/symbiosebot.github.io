@@ -1,0 +1,6 @@
+# robots.txt for Symbiose landing (root)
+User-agent: *
+Allow: /
+
+# Add sitemap URL when available, e.g.:
+# Sitemap: https://example.com/sitemap.xml
